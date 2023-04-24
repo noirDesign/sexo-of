@@ -21,7 +21,7 @@ export default {
 }
 
 body {
-	background-color: #111;
+	background-color: #0c0c0c;
 	color: #fff;
 	font-weight: 'thin';
 	display: flex;
